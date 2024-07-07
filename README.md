@@ -1,8 +1,8 @@
 --[[
 
 Open source
-Made by !vcsk0#1516
-Credits to me
+Editado Por blackpaz.
+Creditos Pro Pai
 
 Credits to the Owner Who Made The ESP Script
 
