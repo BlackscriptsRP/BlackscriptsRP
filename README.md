@@ -225,7 +225,7 @@ end
 end)
 
 HubTab:Toggle("FlyCar", function(s)
-getgenv().loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
+getgenv().loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fly-Car-Mobile-gui-11884"))()
 local hb = game:GetService("RunService").Heartbeat
 local player = game:GetService("Hubs")
 local lplr = player.LocalPlayer
