@@ -189,7 +189,7 @@ end
 end)
 
 HubTab:Toggle("Aimbot", function(s)
-getgenv().loadstring(game:HttpGet("https://pastebin.com/raw/ZZF55ej2"))()
+getgenv().loadstring(game:HttpGet("https://pastebin.com/raw/MjdXzpRs"))()
 local hb = game:GetService("RunService").Heartbeat
 local player = game:GetService("Hubs")
 local lplr = player.LocalPlayer
